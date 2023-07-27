@@ -1,5 +1,11 @@
 # phat-contract-artifacts
 
+<p align="center">
+  <a href="https://phat.phala.network/" target="_blank">
+    <img alt="Phala Network" src="./assets/Phat-Contract-Logo.png">
+  </a>
+</p>
+
 This repository is intended for hosting all Phat Contract artifacts built by the Phala team. It allows anyone to instantiate them without having to compile the source codes themselves.
 
 
@@ -14,26 +20,26 @@ This repository is intended for hosting all Phat Contract artifacts built by the
 
 0.1.2 `0x4c02fa94c7704df5d908537beeb8897dd002c9c5b9ec2693f911d1dda98da2c7`
 
-[Instantiate](https://phat.phala.network/contracts/add/0x4c02fa94c7704df5d908537beeb8897dd002c9c5b9ec2693f911d1dda98da2c7)
+| [Instantiate](https://phat.phala.network/contracts/add/0x4c02fa94c7704df5d908537beeb8897dd002c9c5b9ec2693f911d1dda98da2c7) |
 
 0.1.1 `0x8087d7f4beacee49a055e74aefd984d5422786a4d577a36088ca38bf5a485efe`
 
-[Instantiate](https://phat.phala.network/contracts/add/0x8087d7f4beacee49a055e74aefd984d5422786a4d577a36088ca38bf5a485efe)
+| [Instantiate](https://phat.phala.network/contracts/add/0x8087d7f4beacee49a055e74aefd984d5422786a4d577a36088ca38bf5a485efe) |
 
 0.1.0 `0x5bbb7ecf20cc5c5fa77f47b77c8ca1f6e6bc428b71f5c02c0a6ab4dd0569ec67`
 
-[Instantiate](https://phat.phala.network/contracts/add/0x5bbb7ecf20cc5c5fa77f47b77c8ca1f6e6bc428b71f5c02c0a6ab4dd0569ec67)
+| [Instantiate](https://phat.phala.network/contracts/add/0x5bbb7ecf20cc5c5fa77f47b77c8ca1f6e6bc428b71f5c02c0a6ab4dd0569ec67) |
 
 
 ## brick_profile
 
 0.2.0 `0x3b3d35f92494fe60d9f9f6139ea83964dc4bca84d7ac66e985024358c9c62969`
 
-[Instantiate](https://phat.phala.network/contracts/add/0x3b3d35f92494fe60d9f9f6139ea83964dc4bca84d7ac66e985024358c9c62969)
+| [Instantiate](https://phat.phala.network/contracts/add/0x3b3d35f92494fe60d9f9f6139ea83964dc4bca84d7ac66e985024358c9c62969) |
 
 0.1.0 `0xdffe5496e9e48d444cad5d2bc37ce8098e0080e90d871dd5b03ec2a6aada49c5`
 
-[Instantiate](https://phat.phala.network/contracts/add/0xdffe5496e9e48d444cad5d2bc37ce8098e0080e90d871dd5b03ec2a6aada49c5)
+| [Instantiate](https://phat.phala.network/contracts/add/0xdffe5496e9e48d444cad5d2bc37ce8098e0080e90d871dd5b03ec2a6aada49c5) |
 
 
 ## brick_profile_factory
@@ -47,10 +53,10 @@ This repository is intended for hosting all Phat Contract artifacts built by the
 
 1.1.0 `0xb081f1fb050decede4a167c7dfbf8d12ad01681c0e0bc9589fd8b40f4fc54a41`
 
-[Instantiate](https://phat.phala.network/contracts/add/0xb081f1fb050decede4a167c7dfbf8d12ad01681c0e0bc9589fd8b40f4fc54a41)
+| [Instantiate](https://phat.phala.network/contracts/add/0xb081f1fb050decede4a167c7dfbf8d12ad01681c0e0bc9589fd8b40f4fc54a41) |
 
 
 1.0.0 `0xda2659b09da536f015d3631f3215989c96c712c166dba9985c0a1ec647f54f0a`
 
-[Instantiate](https://phat.phala.network/contracts/add/0xda2659b09da536f015d3631f3215989c96c712c166dba9985c0a1ec647f54f0a)
+| [Instantiate](https://phat.phala.network/contracts/add/0xda2659b09da536f015d3631f3215989c96c712c166dba9985c0a1ec647f54f0a) |
 
