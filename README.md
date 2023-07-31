@@ -8,6 +8,15 @@
 
 This repository is intended for hosting all Phat Contract artifacts built by the Phala team. It allows anyone to instantiate them without having to compile the source codes themselves.
 
+## Name Convention
+
+- One folder for one Phat Contract, the folder name should be the codehash with prefixed with `0x`: `artifacts/<codehash>`.
+- The metadata JSON file should rename to `metadata.json`
+- The wasm file should rename to `out.wasm`
+
+
+---
+
 
 ## lego
 
