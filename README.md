@@ -99,11 +99,9 @@ v1-rc2 `0xacbe3b24b3f798f58b06d8da0b8eeed14f90fb81cd9e500ec4198c9c7595c934`
 
 ### qjs
 
+NOTE: the qjs can not be instantiated.
+
 1.1.0 `0xb081f1fb050decede4a167c7dfbf8d12ad01681c0e0bc9589fd8b40f4fc54a41`
-
-| [Instantiate](https://phat.phala.network/contracts/add/0xb081f1fb050decede4a167c7dfbf8d12ad01681c0e0bc9589fd8b40f4fc54a41) |
-
 
 1.0.0 `0xda2659b09da536f015d3631f3215989c96c712c166dba9985c0a1ec647f54f0a`
 
-| [Instantiate](https://phat.phala.network/contracts/add/0xda2659b09da536f015d3631f3215989c96c712c166dba9985c0a1ec647f54f0a) |
