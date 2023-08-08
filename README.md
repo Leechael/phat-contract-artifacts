@@ -99,6 +99,8 @@ v1-rc2 `0xacbe3b24b3f798f58b06d8da0b8eeed14f90fb81cd9e500ec4198c9c7595c934`
 
 ### qjs
 
+[Source Code](https://github.com/Phala-Network/phat-quickjs)
+
 NOTE: the qjs can not be instantiated.
 
 1.1.0 `0xb081f1fb050decede4a167c7dfbf8d12ad01681c0e0bc9589fd8b40f4fc54a41`
