@@ -494,7 +494,7 @@
           " runtime version is not supported."
         ],
         "label": "System::upgrade_runtime",
-        "mutates": false,
+        "mutates": true,
         "payable": false,
         "returnType": {
           "displayName": [
