@@ -55,7 +55,15 @@ v1-rc2 `0xacbe3b24b3f798f58b06d8da0b8eeed14f90fb81cd9e500ec4198c9c7595c934`
 
 [Instantiate](https://phat.phala.network/contracts/add/0xacbe3b24b3f798f58b06d8da0b8eeed14f90fb81cd9e500ec4198c9c7595c934)
 
+
 ## [Phat Bricks](https://github.com/Phala-Network/phat-bricks)
+
+### lego_rs
+
+0.1.0 `0x86123c984f2eef5014d69b8e11cb208a205885bc19bdb8c7cfe71ff14ed4a48d`
+
+[Instantiate](https://phat.phala.network/contracts/add/0x86123c984f2eef5014d69b8e11cb208a205885bc19bdb8c7cfe71ff14ed4a48d) | [Testnet](https://phat.phala.network/contracts/view/0x75940604c8f8b7bd7079bacb86e5f731ba805c22bb65d74576e5a0a8e0f0ca30?rpc=wss://poc5.phala.network/ws)
+
 
 ### lego
 
@@ -65,6 +73,10 @@ v1-rc2 `0xacbe3b24b3f798f58b06d8da0b8eeed14f90fb81cd9e500ec4198c9c7595c934`
 
 
 ### action_offchain_rollup
+
+1.0.0 `0x2fc15615a7caf489cca7c296ad9d6f516b815e2ef8dd34388ae4ee73258a537d`
+
+| [Instantiate](https://phat.phala.network/contracts/add/0x2fc15615a7caf489cca7c296ad9d6f516b815e2ef8dd34388ae4ee73258a537d) |
 
 0.1.2 `0x4c02fa94c7704df5d908537beeb8897dd002c9c5b9ec2693f911d1dda98da2c7`
 
@@ -80,6 +92,10 @@ v1-rc2 `0xacbe3b24b3f798f58b06d8da0b8eeed14f90fb81cd9e500ec4198c9c7595c934`
 
 
 ### brick_profile
+
+1.0.0 `0xf21d422033f5803c4be00803d62e84e1e1a44a614896a8977941530fca4ba63a`
+
+| [Instantiate](https://phat.phala.network/contracts/add/0xf21d422033f5803c4be00803d62e84e1e1a44a614896a8977941530fca4ba63a) |
 
 0.2.0 `0x3b3d35f92494fe60d9f9f6139ea83964dc4bca84d7ac66e985024358c9c62969`
 
