@@ -60,16 +60,16 @@ v1-rc2 `0xacbe3b24b3f798f58b06d8da0b8eeed14f90fb81cd9e500ec4198c9c7595c934`
 
 ### lego_rs
 
-0.1.0 `0x86123c984f2eef5014d69b8e11cb208a205885bc19bdb8c7cfe71ff14ed4a48d`
+0.1.0 `0xe5b86ea5a92b207cffa9f814911bb96cc900bef19817f3e07b75a23f60ca963b`
 
-[Instantiate](https://phat.phala.network/contracts/add/0x86123c984f2eef5014d69b8e11cb208a205885bc19bdb8c7cfe71ff14ed4a48d) | [Testnet](https://phat.phala.network/contracts/view/0x75940604c8f8b7bd7079bacb86e5f731ba805c22bb65d74576e5a0a8e0f0ca30?rpc=wss://poc5.phala.network/ws)
+[Instantiate](https://phat.phala.network/contracts/add/0xe5b86ea5a92b207cffa9f814911bb96cc900bef19817f3e07b75a23f60ca963b) | [Mainnet](https://phat.phala.network/contracts/view/0xd0b2ee3ac67b363734c5105a275b5de964ecc4a304d98c2cc49a8d417331ade2?rpc=wss://api.phala.network/ws) | [Testnet](https://phat.phala.network/contracts/view/0x75940604c8f8b7bd7079bacb86e5f731ba805c22bb65d74576e5a0a8e0f0ca30?rpc=wss://poc5.phala.network/ws)
 
 
 ### lego
 
 0.1.0 `0x219e0f258c0de1f730790b3602dadf8bd897b3b7e3e5c2cbcc1a161760634945`
 
-[Instantiate](https://phat.phala.network/contracts/add/0x219e0f258c0de1f730790b3602dadf8bd897b3b7e3e5c2cbcc1a161760634945) | [Mainnet](https://phat.phala.network/contracts/view/0xe3e3ce14b65fa187e69c25223f00ce5d3ba6c9514805e65e046a56f65355260f?rpc=wss://api.phala.network/ws) | [Testnet](https://phat.phala.network/contracts/view/0xd9b9f56edb5b1aad92b08106fe6cf28d78f5e1cf5ae965ac19ffcc9f73ec703d?rpc=wss://poc5.phala.network/ws)
+[Instantiate](https://phat.phala.network/contracts/add/0x219e0f258c0de1f730790b3602dadf8bd897b3b7e3e5c2cbcc1a161760634945) | [Mainnet](https://phat.phala.network/contracts/view/0xd0b2ee3ac67b363734c5105a275b5de964ecc4a304d98c2cc49a8d417331ade2?rpc=wss://api.phala.network/ws) | [Testnet](https://phat.phala.network/contracts/view/0xd9b9f56edb5b1aad92b08106fe6cf28d78f5e1cf5ae965ac19ffcc9f73ec703d?rpc=wss://poc5.phala.network/ws)
 
 
 ### action_offchain_rollup
