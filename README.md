@@ -74,6 +74,10 @@ v1-rc2 `0xacbe3b24b3f798f58b06d8da0b8eeed14f90fb81cd9e500ec4198c9c7595c934`
 
 ### action_offchain_rollup
 
+1.0.1 `0xe0a086ccadbac348b625e859b46175224b226d29fa842f051e49c6fcc85dee62`
+
+| [Instantiate](https://phat.phala.network/contracts/add/0xe0a086ccadbac348b625e859b46175224b226d29fa842f051e49c6fcc85dee62) |
+
 1.0.0 `0x2fc15615a7caf489cca7c296ad9d6f516b815e2ef8dd34388ae4ee73258a537d`
 
 | [Instantiate](https://phat.phala.network/contracts/add/0x2fc15615a7caf489cca7c296ad9d6f516b815e2ef8dd34388ae4ee73258a537d) |
@@ -92,6 +96,10 @@ v1-rc2 `0xacbe3b24b3f798f58b06d8da0b8eeed14f90fb81cd9e500ec4198c9c7595c934`
 
 
 ### brick_profile
+
+1.0.1 `0xd6509895851f90280314d8608430b8972772306fd81973f19272588e2ad2aca8`
+
+| [Instantiate](https://phat.phala.network/contracts/add/0xd6509895851f90280314d8608430b8972772306fd81973f19272588e2ad2aca8) |
 
 1.0.0 `0xf21d422033f5803c4be00803d62e84e1e1a44a614896a8977941530fca4ba63a`
 
