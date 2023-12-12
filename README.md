@@ -33,7 +33,7 @@ v1-rc2 `0x176166aec7f50ea083c1d2b87f49f33aad336995d9ed37d7eeb79741d0ce700f`
 
 v1-rc1 `0x2fd66692f5ec313414fb5b80cfcaf26deb502b5160354ecb981989f19bd71403`
 
-[Instantiate](https://phat.phala.network/contracts/add/0x2fd66692f5ec313414fb5b80cfcaf26deb502b5160354ecb981989f19bd71403) | [Mainnet](https://phat.phala.network/contracts/view/0xec3907c7f05505280a7a2e1b939963794f4762d2ccfdeb6b8b1633af17c2439c?rpc=wss://api.phala.network/ws) | [Testnet](https://phat.phala.network/contracts/view/0xefa947da84aed2531beb392f4715a445f1af36432f040d6a4f0dd8d48f28d94c?rpc=wss://poc5.phala.network/ws)
+[Instantiate](https://phat.phala.network/contracts/add/0x2fd66692f5ec313414fb5b80cfcaf26deb502b5160354ecb981989f19bd71403) | [Mainnet](https://phat.phala.network/contracts/view/0xec3907c7f05505280a7a2e1b939963794f4762d2ccfdeb6b8b1633af17c2439c?rpc=wss://api.phala.network/ws)
 
 ### sidevm_deployer
 
@@ -43,13 +43,13 @@ v1-rc1 `0x7207fa7cd56cfc0ec7faa7aed594ee6e2317ea848812cb1ffc6099c205e2a201`
 
 v1-rc2 `0x58446ef118f1efb98988e29e6e025828b6d51bd30c14c6bd61ee94609afbd00a`
 
-[Instantiate](https://phat.phala.network/contracts/add/0x58446ef118f1efb98988e29e6e025828b6d51bd30c14c6bd61ee94609afbd00a) | [Mainnet](https://phat.phala.network/contracts/view/0x111c43f37d027c2f4d764bf6de87f499d65079b8f2f2a1ec0bd0d84d3b77f72d?rpc=wss://api.phala.network/ws) | [Testnet](https://phat.phala.network/contracts/view/0x60a2bef2874786d0ce2cb6d9121bd94c79b5e4b08e44c3585cc75b67a4d0c28c?rpc=wss://poc5.phala.network/ws)
+[Instantiate](https://phat.phala.network/contracts/add/0x58446ef118f1efb98988e29e6e025828b6d51bd30c14c6bd61ee94609afbd00a) | [Mainnet](https://phat.phala.network/contracts/view/0x111c43f37d027c2f4d764bf6de87f499d65079b8f2f2a1ec0bd0d84d3b77f72d?rpc=wss://api.phala.network/ws)
 
 ### log_server
 
 v1-rc1 `0x3d64cf64c763393289613c907c2f62fb3aa8ea50d2e4580b0e0be0ad5a6c5626`
 
-[Instantiate](https://phat.phala.network/contracts/add/0x3d64cf64c763393289613c907c2f62fb3aa8ea50d2e4580b0e0be0ad5a6c5626) | [Mainnet](https://phat.phala.network/contracts/view/0x5e707c91ffc4c57c1bd75c8da3095055db5a072865e292849cb96dd1ec2f4f46?rpc=wss://api.phala.network/ws) | [Testnet](https://phat.phala.network/contracts/view/0xa0c948ca913419fe26e2b0d7bd367281ce161cbe03736ba0085e85d5f4048d82?rpc=wss://poc5.phala.network/ws)
+[Instantiate](https://phat.phala.network/contracts/add/0x3d64cf64c763393289613c907c2f62fb3aa8ea50d2e4580b0e0be0ad5a6c5626) | [Mainnet](https://phat.phala.network/contracts/view/0x5e707c91ffc4c57c1bd75c8da3095055db5a072865e292849cb96dd1ec2f4f46?rpc=wss://api.phala.network/ws)
 
 v1-rc2 `0xacbe3b24b3f798f58b06d8da0b8eeed14f90fb81cd9e500ec4198c9c7595c934`
 
@@ -62,14 +62,14 @@ v1-rc2 `0xacbe3b24b3f798f58b06d8da0b8eeed14f90fb81cd9e500ec4198c9c7595c934`
 
 0.1.0 `0xe5b86ea5a92b207cffa9f814911bb96cc900bef19817f3e07b75a23f60ca963b`
 
-[Instantiate](https://phat.phala.network/contracts/add/0xe5b86ea5a92b207cffa9f814911bb96cc900bef19817f3e07b75a23f60ca963b) | [Mainnet](https://phat.phala.network/contracts/view/0xd0b2ee3ac67b363734c5105a275b5de964ecc4a304d98c2cc49a8d417331ade2?rpc=wss://api.phala.network/ws) | [Testnet](https://phat.phala.network/contracts/view/0x75940604c8f8b7bd7079bacb86e5f731ba805c22bb65d74576e5a0a8e0f0ca30?rpc=wss://poc5.phala.network/ws)
+[Instantiate](https://phat.phala.network/contracts/add/0xe5b86ea5a92b207cffa9f814911bb96cc900bef19817f3e07b75a23f60ca963b) | [Mainnet](https://phat.phala.network/contracts/view/0xd0b2ee3ac67b363734c5105a275b5de964ecc4a304d98c2cc49a8d417331ade2?rpc=wss://api.phala.network/ws) | [PoC6 Testnet](https://phat.phala.network/contracts/view/0x15fd4cc6e96b1637d46bd896f586e5de7c6835d8922d9d43f3c1dd5b84883d79?rpc=wss://poc6.phala.network/ws)
 
 
 ### lego
 
 0.1.0 `0x219e0f258c0de1f730790b3602dadf8bd897b3b7e3e5c2cbcc1a161760634945`
 
-[Instantiate](https://phat.phala.network/contracts/add/0x219e0f258c0de1f730790b3602dadf8bd897b3b7e3e5c2cbcc1a161760634945) | [Mainnet](https://phat.phala.network/contracts/view/0xd0b2ee3ac67b363734c5105a275b5de964ecc4a304d98c2cc49a8d417331ade2?rpc=wss://api.phala.network/ws) | [Testnet](https://phat.phala.network/contracts/view/0xd9b9f56edb5b1aad92b08106fe6cf28d78f5e1cf5ae965ac19ffcc9f73ec703d?rpc=wss://poc5.phala.network/ws)
+[Instantiate](https://phat.phala.network/contracts/add/0x219e0f258c0de1f730790b3602dadf8bd897b3b7e3e5c2cbcc1a161760634945) | [Mainnet](https://phat.phala.network/contracts/view/0xd0b2ee3ac67b363734c5105a275b5de964ecc4a304d98c2cc49a8d417331ade2?rpc=wss://api.phala.network/ws)
 
 
 ### action_offchain_rollup
@@ -118,7 +118,7 @@ v1-rc2 `0xacbe3b24b3f798f58b06d8da0b8eeed14f90fb81cd9e500ec4198c9c7595c934`
 
 0.1.0 `0xeb65d30766360fb51fe01f638142ae4a5ef1ffbe66c016336b17977f4d5f7c29`
 
-[Instantiate](https://phat.phala.network/contracts/add/0xeb65d30766360fb51fe01f638142ae4a5ef1ffbe66c016336b17977f4d5f7c29) | [Mainnet](https://phat.phala.network/contracts/view/0xb59bcc4ea352f3d878874d8f496fb093bdf362fa59d6e577c075f41cd7c84924?rpc=wss://api.phala.network/ws) | [Testnet](https://phat.phala.network/contracts/view/0x489bb4fa807bbe0f877ed46be8646867a8d16ec58add141977c4bd19b0237091?rpc=wss://poc5.phala.network/ws)
+[Instantiate](https://phat.phala.network/contracts/add/0xeb65d30766360fb51fe01f638142ae4a5ef1ffbe66c016336b17977f4d5f7c29) | [Mainnet](https://phat.phala.network/contracts/view/0xb59bcc4ea352f3d878874d8f496fb093bdf362fa59d6e577c075f41cd7c84924?rpc=wss://api.phala.network/ws) | [PoC6 Testnet](https://phat.phala.network/contracts/view/0x4a7861f257568a989a9c24db60981efb745d134a138203a219da051337428b49?rpc=wss://poc6.phala.network/ws)
 
 
 ### qjs
